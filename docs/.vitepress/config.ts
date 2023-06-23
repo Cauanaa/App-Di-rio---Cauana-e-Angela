@@ -21,7 +21,7 @@ export default defineConfig({
               { text: 'Diagrama de Classes', link: '/diagrama_classes' },
             ],
           },
-          { text: 'Prtorótipo de Telas', link: '/prototipo' },
+          { text: 'Protótipo de Telas', link: '/prototipo' },
           { text: 'Cronograma e Entrega', link: '/cronograma' },
           { text: 'Riscos e Mitigação', link: '/riscos' },
           { text: 'Custos e Orçamento', link: '/custos' },
